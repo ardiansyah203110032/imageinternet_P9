@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_no_fix_applied">Without Fix</string>
+    <string name="title_with_relative_layout_wrapper_fix">With Wrapper Fix</string>
+    <string name="title_with_nestedscrollview_fix">With NestedScrollView Fix</string>
+    <string name="selected_demo_type">Selected \'%s\' demo.</string>
+    <string name="guide_description">Select a demo view from navigation drawer to test `RecyclerView` wrap_content issue inside `ScrollView`.</string>
+</resources>
